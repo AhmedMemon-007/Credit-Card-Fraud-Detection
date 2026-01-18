@@ -1,0 +1,11 @@
+,Predicted Normal,Predicted Fraud,Model,Threshold
+Actual Normal,51332,5532,Logistic Regression,0.2
+Actual Fraud,7,91,Logistic Regression,0.2
+Actual Normal,55334,1530,Naive Bayes,0.2
+Actual Fraud,12,86,Naive Bayes,0.2
+Actual Normal,55428,1436,Decision Tree,0.2
+Actual Fraud,13,85,Decision Tree,0.2
+Actual Normal,56801,63,Random Forest,0.2
+Actual Fraud,10,88,Random Forest,0.2
+Actual Normal,56497,367,XGBoost,0.2
+Actual Fraud,10,88,XGBoost,0.2
